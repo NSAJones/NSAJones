@@ -4,6 +4,9 @@ I'm currently in a Software Engineering bootcamp with CoGrammar
 
 I took Computer Science at A level and at University, which I was at for 2 years.
 
+### Projects
+I'm working on a [tetris clone using pygame](https://github.com/NSAJones/Tetripy)
+
 ### Tech Stack
 * python
 * django
@@ -11,9 +14,6 @@ I took Computer Science at A level and at University, which I was at for 2 years
 * jquery
 * java
 * lua
-
-## Projects
-I'm working on a [tetris clone using pygame](https://github.com/NSAJones/Tetripy)
 
 ### Contact
 * email - nsajones23@gmail.com
