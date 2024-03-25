@@ -1,13 +1,13 @@
 
-##About
+## About
 I'm currently in a Software Engineering bootcamp with CoGrammar
 
 I took Computer Science at A level and at university, of which I was at for 2 years.
 
-##Projects
+## Projects
 I'm working on a [tetris clone using pygame](https://github.com/NSAJones/Tetripy)
 
-###Contact
+### Contact
 email - nsajones23@gmail.com
 discord - sigilquiver
 
